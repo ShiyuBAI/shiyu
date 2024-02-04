@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shiyubai.github.io/shiyu/sitemap.xml
+Sitemap: /shiyu/sitemap.xml
