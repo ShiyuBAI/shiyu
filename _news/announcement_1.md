@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-01-19 15:59:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+I was invited by the [Hong Kong Applied Science and Technology Research Institute (ASTRI)](https://www.astri.org/sc/) to deliver a talk titled ‘Graph-based Indoor 3D Pedestrian Location Tracking with Inertial-only Perception’.
