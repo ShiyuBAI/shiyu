@@ -26,5 +26,6 @@ My research interest includes:
 
 - Inertial Odometry
 - Sensor Fusion
+- Motion Capture
 - Indoor Positioning
 - Vehicle Navigation
