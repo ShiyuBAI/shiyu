@@ -24,8 +24,8 @@ I am a Postdoctoral Fellow in the [Department of Aeronautical and Aviation Engin
 
 My research interest includes:
 
-- Inertial Odometry
+- State Estimation
 - Sensor Fusion
-- Motion Capture
-- Indoor Positioning
+- Inertial Odometry
+- Indoor Localization
 - Vehicle Navigation
