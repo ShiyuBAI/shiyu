@@ -49,14 +49,12 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: State Estimation.
+    - title: Sensor Fusion.
+    - title: Inertial Odometry.
+    - title: Vehicle Navigation.
+    - title: Indoor Localization.
+    
 
 - title: Other Interests
   type: list
