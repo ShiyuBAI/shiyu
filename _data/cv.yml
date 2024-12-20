@@ -29,17 +29,16 @@
   contents:
     - year: 2024
       items: 
-        - Youth Innovation Doctoral Dissertation Award (中国惯性技术学会优博), Chinese Society of Inertial Technology.
-        - University Outstanding Doctoral Dissertation Award (南航校优博), Nanjing University of Aeronautics and Astronautics.
-        - Best Presentation Award, The 2nd Chinese Association of Automation Doctoral Academic Exchange Conference.
+        - Youth Innovation Doctoral Dissertation Award, CSIT (中国惯性技术学会优博).
+        - University Outstanding Doctoral Dissertation Award, NUAA (南航校优博).
+        - Best Presentation Award, The 2nd CAA Doctoral Academic Exchange Conference.
     - year: 2023
       items: 
-        - Excellent Presentation Award, Chinese Association of Automation Doctoral Academic Exchange Conference in Hong Kong, and Macao.
-        - Postdoc Matching Fund Scheme, The Hong Kong Polytechnic University.
-        - Outstanding Winner, Progress of Satellite Navigation & Positioning Technology.
+        - Excellent Presentation Award, The 1st CAA Doctoral Academic Exchange Conference.
+        - Postdoc Matching Fund Scheme, PolyU.
     - year: 2020
       items: 
-        - The First Place, Science and Technology Committee of the Central Military Commission Challenge Underground 2020 Target Detection and Recognition Competition.
+        - The First Place, CMSTC Challenge Underground 2020 Competition (军科委挑战地下2020).
 
 - title: Academic Interests
   type: nested_list
