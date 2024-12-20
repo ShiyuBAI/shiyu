@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Nanjing University of Aeronautics and Astronautics, China
+      institution: Nanjing University of Aeronautics and Astronautics, China.
       year: 2022
       description:
 
@@ -20,13 +20,13 @@
   type: time_table
   contents:
     - title: Postdoctoral Fellow
-      institution: Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University, China
+      institution: Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University, China.
       year: 2023 - Present
       description:
         - AI-PDR.
         - Indoor Localization.
     - title: Visiting Scientist
-      institution: Institute of Cartography and Geoinformatics, Leibniz University Hannover, Germany
+      institution: Institute of Cartography and Geoinformatics, Leibniz University Hannover, Germany.
       year: 2023
 
 - title: Honors and Awards
@@ -34,12 +34,17 @@
   contents:
     - year: 2024
       items: 
-        - Youth Innovation Doctoral Dissertation Award (中国惯性技术学会优博), Chinese Society of Inertial Technology
-        - University Outstanding Doctoral Dissertation Award (南航校优博), Nanjing University of Aeronautics and Astronautics
-        - Best Presentation Award, The 2nd Chinese Association of Automation Doctoral Academic Exchange Conference
-    - year: 2029
+        - Youth Innovation Doctoral Dissertation Award (中国惯性技术学会优博), Chinese Society of Inertial Technology.
+        - University Outstanding Doctoral Dissertation Award (南航校优博), Nanjing University of Aeronautics and Astronautics.
+        - Best Presentation Award, The 2nd Chinese Association of Automation Doctoral Academic Exchange Conference.
+    - year: 2023
       items: 
-        - Max Planck Medal
+        - Excellent Presentation Award, Chinese Association of Automation Doctoral Academic Exchange Conference in Hong Kong, and Macao.
+        - Postdoc Matching Fund Scheme, The Hong Kong Polytechnic University.
+        - Outstanding Winner, Progress of Satellite Navigation & Positioning Technology.
+    - year: 2020
+      items: 
+        - The First Place, Science and Technology Committee of the Central Military Commission Challenge Underground 2020 Target Detection and Recognition Competition.
 
 - title: Academic Interests
   type: nested_list
